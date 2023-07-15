@@ -1,3 +1,3 @@
-# learning how upload locally..
+# learning how to upload locally..
 
 lorem ipsum..
